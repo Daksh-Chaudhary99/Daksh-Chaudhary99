@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Daksh Chaudhary 👋
 
-<!--
-**Daksh-Chaudhary99/Daksh-Chaudhary99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Machine Learning Engineer** based in **Toronto** with a Master's in **Applied AI** from the **University of Ottawa**. I specialize in building **Agentic Workflows**, **RAG systems**, and **GenAI** solutions.
 
-Here are some ideas to get you started:
+* 🏆 **Honors:** Vector Scholarship in AI Recipient
+* 🔭 **Focus:** NLP, Large Language Models (LLMs), and Multi-Agent Systems
+* 💼 **Experience:** AI Solutions at **Kinaxis** & **Ericsson**, Software Engineer at **Persistent System**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+* **AI/ML:** PyTorch, TensorFlow, LangChain, LlamaIndex, HuggingFace
+* **GenAI:** RAG, Prompt Engineering, Fine-tuning (QLoRA), AI Agents
+* **Deployment:** Docker, Kubernetes, AWS, Azure, vLLM
+
+---
+
+### 📍 Connect
+[LinkedIn](https://www.linkedin.com/in/daksh-chaudhary/) | [Portfolio](https://daksh-chaudhary99.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=Pi9qt0IAAAAJ&hl=en)
