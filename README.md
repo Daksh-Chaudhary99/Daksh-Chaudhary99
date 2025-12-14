@@ -4,7 +4,7 @@ I am a **Machine Learning Engineer** based in **Toronto** with a Master's in **A
 
 * 🏆 **Honors:** Vector Scholarship in AI Recipient
 * 🔭 **Focus:** NLP, Large Language Models (LLMs), and Multi-Agent Systems
-* 💼 **Experience:** AI Solutions at **Kinaxis** & **Ericsson**, Software Engineer at **Persistent System**
+* 💼 **Experience:** AI Solutions at **Kinaxis** & **Ericsson**, Software Engineer at **Persistent Systems**
 
 ---
 
