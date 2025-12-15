@@ -16,4 +16,4 @@ I am a **Machine Learning Engineer** based in **Toronto** with a Master's in **A
 ---
 
 ### 📍 Connect
-[LinkedIn](https://www.linkedin.com/in/daksh-chaudhary/) | [Portfolio](https://daksh-chaudhary99.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=Pi9qt0IAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/daksh-chaudhary/) | [Google Scholar](https://scholar.google.com/citations?user=Pi9qt0IAAAAJ&hl=en)
